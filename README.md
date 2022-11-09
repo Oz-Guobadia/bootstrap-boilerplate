@@ -6,4 +6,4 @@ This is our introduction to bootstrap and will be our template for the rest of c
 
 ### Project Author
 
-Osa G - [Osa G's LinkedIn](https://www.linkedin.com/in/osazee-guobadia-jr-103a2b9a/)
+Osa Guobadia - [Osa Guobadia's LinkedIn](https://www.linkedin.com/in/osazee-guobadia-jr-103a2b9a/)
